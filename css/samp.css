@@ -1,0 +1,20 @@
+#wholeContainer{
+	position:absolute;
+	width:600px;
+	height:600px;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	margin:auto;
+	border:1px solid red;
+}
+#mycanvas{
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
+	margin:auto;
+	border:1px solid red;
+}
